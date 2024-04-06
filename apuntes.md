@@ -1,4 +1,6 @@
-# Variables
+# Unidad 1
+
+## Variables
 
 ```js
 x = 5; // nombre: x, valor: 5, tipo de dato: número
@@ -6,7 +8,7 @@ y = "Hola"; // nombre: y, valor: Hola, tipo de dato: texto
 Manz = "me"; // nombre: Manz, valor: me, tipo de dato: texto
 ```
 
-# Comentarios de código
+## Comentarios de código
 
 > Aprender a comentar mejor.
 
@@ -18,7 +20,7 @@ Una serie de consejos a tener presentes a la hora de dejar comentarios en nuestr
 - Intenta usar siempre el mismo idioma y estilo de comentarios.
 - Si modificas código, revisa también los comentarios. **Comentarios desactualizados, son inservibles**.
 
-## Tipos de comentario
+### Tipos de comentario
 
 ```js
 // Comentarios cortos de una sola línea. Suelen explicar la línea siguiente.
@@ -42,3 +44,13 @@ let oferta = precio * 0.5; ✅
 ```
 
 > En este fragmento de código, **no utilizamos comentarios** porque el nombre de las variables ya ayuda a entender el código y lo hace autoexplicativo.
+
+## Convenciones de nombres
+
+Usar nombres descriptivos.
+
+En índices y contadores se pude utilizar una sola letra.
+
+### Constantes
+
+La convención adoptada con las constantes es que deben ir siempre en **MAYÚSCULAS** si se tratan de valores sensibles a ser modificados por el programador a lo largo del desarrollo del programa (por ejemplo, una constante con los minutos con los que arrancará una cuenta atrás).
