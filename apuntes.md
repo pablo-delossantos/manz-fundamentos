@@ -1,4 +1,4 @@
-# Unidad 1
+# Unidad 1 Conceptos previos
 
 ## Variables
 
@@ -51,6 +51,6 @@ Usar nombres descriptivos.
 
 En índices y contadores se pude utilizar una sola letra.
 
-### Constantes
+### Constantes, clases y variables
 
 La convención adoptada con las constantes es que deben ir siempre en **MAYÚSCULAS** si se tratan de valores sensibles a ser modificados por el programador a lo largo del desarrollo del programa (por ejemplo, una constante con los minutos con los que arrancará una cuenta atrás).
